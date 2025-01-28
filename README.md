@@ -10,4 +10,6 @@ himym_dash - takes in data and creates graphs including calling the sankey file,
 sankey - seperate file to create sankey graph
 
 ## How to run
-download the files and data, make sure you have panel installed, in a terminal in the directory input: panel serve himym_dash
+Download the files and data
+Make sure you have panel installed
+In a terminal in the directory input: panel serve himym_dash
